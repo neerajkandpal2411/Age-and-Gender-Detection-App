@@ -20,3 +20,9 @@ This project uses a **deep learning model** built with TensorFlow/Keras and a **
 - **Image Processing**: OpenCV, Pillow
 - **Visualization**: Matplotlib, Seaborn
 - **Data Handling**: NumPy, Scikit-learn
+  
+  ---
+
+## 📞 Author <br>
+Neeraj Kandpal <br>
+Linkedin : https://www.linkedin.com/in/neeraj-kandpal/
