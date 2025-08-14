@@ -9,7 +9,7 @@ from keras.metrics import MeanAbsoluteError  # Fix for 'mae'
 
 # Load the Model and Handle Custom Metrics
 custom_objects = {"mae": MeanAbsoluteError()}
-model = load_model('Age_Sex_Detection.h5', custom_objects=custom_objects)
+model = load_model('model\Age_Sex_Detection.h5', custom_objects=custom_objects)
 
 # Initialize the GUI
 top = tk.Tk()
@@ -83,3 +83,4 @@ heading.pack()
 
 # Run the Application
 top.mainloop()
+
