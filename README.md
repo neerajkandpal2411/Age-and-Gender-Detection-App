@@ -23,6 +23,11 @@ This project uses a **deep learning model** built with TensorFlow/Keras and a **
   
   ---
 
+## Dataset
+The dataset is available here: https://drive.google.com/file/d/1RG3zMKBJNA5_c42kA1O42BRmSpPuHlyY/view?usp=drive_link
+
+---
+
 ## 📞 Author <br>
 Neeraj Kandpal <br>
 Linkedin : https://www.linkedin.com/in/neeraj-kandpal/
